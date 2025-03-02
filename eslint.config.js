@@ -14,6 +14,8 @@ export default [
       "eslint:recommended",
       "plugin:@typescript-eslint/recommended",
       "plugin:react-hooks/recommended",
+      "next",
+      "next/core-web-vitals",
     ],
     files: ["**/*.{ts,tsx}"],
     languageOptions: {
